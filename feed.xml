@@ -1,56 +1,235 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>test</title>
+    <title>HOME</title>
     <link href="https://2087leanne.github.io/leanne/feed.xml" rel="self" />
     <link href="https://2087leanne.github.io/leanne" />
-    <updated>2024-03-19T22:06:07+08:00</updated>
+    <updated>2024-03-20T15:53:17+08:00</updated>
     <author>
         <name>lean</name>
     </author>
     <id>https://2087leanne.github.io/leanne</id>
 
     <entry>
-        <title>home</title>
+        <title>Poster_03</title>
         <author>
             <name>lean</name>
         </author>
-        <link href="https://2087leanne.github.io/leanne/home.html"/>
-        <id>https://2087leanne.github.io/leanne/home.html</id>
+        <link href="https://2087leanne.github.io/leanne/poster_03.html"/>
+        <id>https://2087leanne.github.io/leanne/poster_03.html</id>
+        <media:content url="https://2087leanne.github.io/leanne/media/posts/17/Wei-Ming-Ming-De-Zuo-Pin-2.JPG" medium="image" />
+            <category term="DESIGN"/>
 
-        <updated>2024-03-19T21:57:14+08:00</updated>
+        <updated>2024-03-20T15:50:31+08:00</updated>
             <summary></summary>
         <content></content>
     </entry>
     <entry>
-        <title>test-1</title>
+        <title>Poster_02</title>
         <author>
             <name>lean</name>
         </author>
-        <link href="https://2087leanne.github.io/leanne/test-1.html"/>
-        <id>https://2087leanne.github.io/leanne/test-1.html</id>
-        <media:content url="https://2087leanne.github.io/leanne/media/posts/1/IMG_0338.jpg" medium="image" />
+        <link href="https://2087leanne.github.io/leanne/poster_02.html"/>
+        <id>https://2087leanne.github.io/leanne/poster_02.html</id>
+        <media:content url="https://2087leanne.github.io/leanne/media/posts/16/Meng-He-Hai-Bao-03_1019.JPG" medium="image" />
+            <category term="DESIGN"/>
 
-        <updated>2024-03-19T21:12:40+08:00</updated>
+        <updated>2024-03-20T15:50:11+08:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://2087leanne.github.io/leanne/media/posts/16/Meng-He-Hai-Bao-03_1019.JPG" class="type:primaryImage" alt="" /></p>
+                <figure class="post__image"><img loading="lazy"  src="https://2087leanne.github.io/leanne/media/posts/16/Meng-He-Hai-Bao-04_1019.JPG" alt="" width="2480" height="3508" sizes="(max-width: 48em) 100vw, 768px" srcset="https://2087leanne.github.io/leanne/media/posts/16/responsive/Meng-He-Hai-Bao-04_1019-xs.JPG 300w ,https://2087leanne.github.io/leanne/media/posts/16/responsive/Meng-He-Hai-Bao-04_1019-sm.JPG 480w ,https://2087leanne.github.io/leanne/media/posts/16/responsive/Meng-He-Hai-Bao-04_1019-md.JPG 768w ,https://2087leanne.github.io/leanne/media/posts/16/responsive/Meng-He-Hai-Bao-04_1019-lg.JPG 1024w ,https://2087leanne.github.io/leanne/media/posts/16/responsive/Meng-He-Hai-Bao-04_1019-xl.JPG 1360w ,https://2087leanne.github.io/leanne/media/posts/16/responsive/Meng-He-Hai-Bao-04_1019-2xl.JPG 1600w"></figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Poster_01</title>
+        <author>
+            <name>lean</name>
+        </author>
+        <link href="https://2087leanne.github.io/leanne/poster_01.html"/>
+        <id>https://2087leanne.github.io/leanne/poster_01.html</id>
+        <media:content url="https://2087leanne.github.io/leanne/media/posts/15/C899868E-C840-4E2F-B753-0E01062E9E0A.JPG" medium="image" />
+            <category term="DESIGN"/>
+
+        <updated>2024-03-20T15:49:35+08:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Album_03</title>
+        <author>
+            <name>lean</name>
+        </author>
+        <link href="https://2087leanne.github.io/leanne/album_03.html"/>
+        <id>https://2087leanne.github.io/leanne/album_03.html</id>
+        <media:content url="https://2087leanne.github.io/leanne/media/posts/14/IMG_0364-2.jpg" medium="image" />
+            <category term="DESIGN"/>
+
+        <updated>2024-03-20T15:48:13+08:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Album_02</title>
+        <author>
+            <name>lean</name>
+        </author>
+        <link href="https://2087leanne.github.io/leanne/album_02.html"/>
+        <id>https://2087leanne.github.io/leanne/album_02.html</id>
+        <media:content url="https://2087leanne.github.io/leanne/media/posts/13/Wei-Ming-Ming-De-Zuo-Pin.JPG" medium="image" />
+            <category term="DESIGN"/>
+
+        <updated>2024-03-20T15:47:43+08:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Food Salmon</title>
+        <author>
+            <name>lean</name>
+        </author>
+        <link href="https://2087leanne.github.io/leanne/design2.html"/>
+        <id>https://2087leanne.github.io/leanne/design2.html</id>
+        <media:content url="https://2087leanne.github.io/leanne/media/posts/7/IMG_0223-2.JPG" medium="image" />
+            <category term="DESIGN"/>
+
+        <updated>2024-03-19T22:14:11+08:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://2087leanne.github.io/leanne/media/posts/7/IMG_0223-2.JPG" class="type:primaryImage" alt="" /></p>
+                <figure class="post__image"><img loading="lazy"  style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);" src="https://2087leanne.github.io/leanne/media/posts/7/Food_Salmon_straight.png" alt="" width="1528" height="1854" sizes="(max-width: 48em) 100vw, 768px" srcset="https://2087leanne.github.io/leanne/media/posts/7/responsive/Food_Salmon_straight-xs.png 300w ,https://2087leanne.github.io/leanne/media/posts/7/responsive/Food_Salmon_straight-sm.png 480w ,https://2087leanne.github.io/leanne/media/posts/7/responsive/Food_Salmon_straight-md.png 768w ,https://2087leanne.github.io/leanne/media/posts/7/responsive/Food_Salmon_straight-lg.png 1024w ,https://2087leanne.github.io/leanne/media/posts/7/responsive/Food_Salmon_straight-xl.png 1360w ,https://2087leanne.github.io/leanne/media/posts/7/responsive/Food_Salmon_straight-2xl.png 1600w"></figure>
+<p> </p>
+<p> </p>
+<p> </p>
+<figure class="post__image"><img loading="lazy"  style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal); outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;" src="https://2087leanne.github.io/leanne/media/posts/7/Wei-Ming-Ming-De-Zuo-Pin-3.jpg" alt="" width="3508" height="2480" sizes="(max-width: 48em) 100vw, 768px" srcset="https://2087leanne.github.io/leanne/media/posts/7/responsive/Wei-Ming-Ming-De-Zuo-Pin-3-xs.jpg 300w ,https://2087leanne.github.io/leanne/media/posts/7/responsive/Wei-Ming-Ming-De-Zuo-Pin-3-sm.jpg 480w ,https://2087leanne.github.io/leanne/media/posts/7/responsive/Wei-Ming-Ming-De-Zuo-Pin-3-md.jpg 768w ,https://2087leanne.github.io/leanne/media/posts/7/responsive/Wei-Ming-Ming-De-Zuo-Pin-3-lg.jpg 1024w ,https://2087leanne.github.io/leanne/media/posts/7/responsive/Wei-Ming-Ming-De-Zuo-Pin-3-xl.jpg 1360w ,https://2087leanne.github.io/leanne/media/posts/7/responsive/Wei-Ming-Ming-De-Zuo-Pin-3-2xl.jpg 1600w"></figure>
+<p> </p>
+<p> </p>
+<figure class="post__image"><img loading="lazy"  style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);" src="https://2087leanne.github.io/leanne/media/posts/7/IMG_0224.JPG" alt="" width="1024" height="768" sizes="(max-width: 48em) 100vw, 768px" srcset="https://2087leanne.github.io/leanne/media/posts/7/responsive/IMG_0224-xs.JPG 300w ,https://2087leanne.github.io/leanne/media/posts/7/responsive/IMG_0224-sm.JPG 480w ,https://2087leanne.github.io/leanne/media/posts/7/responsive/IMG_0224-md.JPG 768w ,https://2087leanne.github.io/leanne/media/posts/7/responsive/IMG_0224-lg.JPG 1024w ,https://2087leanne.github.io/leanne/media/posts/7/responsive/IMG_0224-xl.JPG 1360w ,https://2087leanne.github.io/leanne/media/posts/7/responsive/IMG_0224-2xl.JPG 1600w"></figure>
+<p> </p>
+<p> </p>
+<figure class="post__image"><img loading="lazy"  src="https://2087leanne.github.io/leanne/media/posts/7/IMG_0223.JPG" alt="" width="1024" height="768" sizes="(max-width: 48em) 100vw, 768px" srcset="https://2087leanne.github.io/leanne/media/posts/7/responsive/IMG_0223-xs.JPG 300w ,https://2087leanne.github.io/leanne/media/posts/7/responsive/IMG_0223-sm.JPG 480w ,https://2087leanne.github.io/leanne/media/posts/7/responsive/IMG_0223-md.JPG 768w ,https://2087leanne.github.io/leanne/media/posts/7/responsive/IMG_0223-lg.JPG 1024w ,https://2087leanne.github.io/leanne/media/posts/7/responsive/IMG_0223-xl.JPG 1360w ,https://2087leanne.github.io/leanne/media/posts/7/responsive/IMG_0223-2xl.JPG 1600w"></figure>
+<p> </p>
+<p> </p>
+<figure class="post__image"><img loading="lazy"  src="https://2087leanne.github.io/leanne/media/posts/7/bus_card_03.jpg" alt="" width="2551" height="1531" sizes="(max-width: 48em) 100vw, 768px" srcset="https://2087leanne.github.io/leanne/media/posts/7/responsive/bus_card_03-xs.jpg 300w ,https://2087leanne.github.io/leanne/media/posts/7/responsive/bus_card_03-sm.jpg 480w ,https://2087leanne.github.io/leanne/media/posts/7/responsive/bus_card_03-md.jpg 768w ,https://2087leanne.github.io/leanne/media/posts/7/responsive/bus_card_03-lg.jpg 1024w ,https://2087leanne.github.io/leanne/media/posts/7/responsive/bus_card_03-xl.jpg 1360w ,https://2087leanne.github.io/leanne/media/posts/7/responsive/bus_card_03-2xl.jpg 1600w"></figure>
+<p> </p>
+<p> </p>
+<figure class="post__image"><img loading="lazy"  src="https://2087leanne.github.io/leanne/media/posts/7/Food_Salmon_horizon.png" alt="" width="3441" height="1101" sizes="(max-width: 48em) 100vw, 768px" srcset="https://2087leanne.github.io/leanne/media/posts/7/responsive/Food_Salmon_horizon-xs.png 300w ,https://2087leanne.github.io/leanne/media/posts/7/responsive/Food_Salmon_horizon-sm.png 480w ,https://2087leanne.github.io/leanne/media/posts/7/responsive/Food_Salmon_horizon-md.png 768w ,https://2087leanne.github.io/leanne/media/posts/7/responsive/Food_Salmon_horizon-lg.png 1024w ,https://2087leanne.github.io/leanne/media/posts/7/responsive/Food_Salmon_horizon-xl.png 1360w ,https://2087leanne.github.io/leanne/media/posts/7/responsive/Food_Salmon_horizon-2xl.png 1600w"></figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Album_01</title>
+        <author>
+            <name>lean</name>
+        </author>
+        <link href="https://2087leanne.github.io/leanne/design1.html"/>
+        <id>https://2087leanne.github.io/leanne/design1.html</id>
+        <media:content url="https://2087leanne.github.io/leanne/media/posts/6/IMG_0363.jpg" medium="image" />
+            <category term="DESIGN"/>
+
+        <updated>2024-03-19T22:14:04+08:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://2087leanne.github.io/leanne/media/posts/6/IMG_0363.jpg" class="type:primaryImage" alt="" /></p>
+                <p> </p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Flow</title>
+        <author>
+            <name>lean</name>
+        </author>
+        <link href="https://2087leanne.github.io/leanne/artwork3.html"/>
+        <id>https://2087leanne.github.io/leanne/artwork3.html</id>
+        <media:content url="https://2087leanne.github.io/leanne/media/posts/5/Jie-Tu-2023-09-15-Shang-Wu-9.51.58-2.png" medium="image" />
+            <category term="ARTWORKS"/>
+
+        <updated>2024-03-19T22:13:45+08:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://2087leanne.github.io/leanne/media/posts/1/IMG_0338.jpg" alt="" />
-                    huang li ing
+                        <img src="https://2087leanne.github.io/leanne/media/posts/5/Jie-Tu-2023-09-15-Shang-Wu-9.51.58-2.png" alt="" />
+                    《f l o w》 Microelectronics Interactive Creation Arduino, Pressure Sensor, Hose, Fluorescent Agent, Water Pump Disordered, melancholy squeezing vibrant youth, I shine in&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://2087leanne.github.io/leanne/media/posts/1/IMG_0338.jpg" class="type:primaryImage" alt="" /></p>
-                
-  <p>
-    huang li ing
-  </p>
-<div><div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/nz1njHfpkzk?si=YPgVhsz3g0o2FKd5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
-</div>
+                    <p><img src="https://2087leanne.github.io/leanne/media/posts/5/Jie-Tu-2023-09-15-Shang-Wu-9.51.58-2.png" class="type:primaryImage" alt="" /></p>
+                <p> </p>
+<figure class="post__image"><img loading="lazy"  src="https://2087leanne.github.io/leanne/media/posts/5/Jie-Tu-2023-09-15-Shang-Wu-9.51.01-2.png" alt="" width="1180" height="706" sizes="(max-width: 48em) 100vw, 768px" srcset="https://2087leanne.github.io/leanne/media/posts/5/responsive/Jie-Tu-2023-09-15-Shang-Wu-9.51.01-2-xs.png 300w ,https://2087leanne.github.io/leanne/media/posts/5/responsive/Jie-Tu-2023-09-15-Shang-Wu-9.51.01-2-sm.png 480w ,https://2087leanne.github.io/leanne/media/posts/5/responsive/Jie-Tu-2023-09-15-Shang-Wu-9.51.01-2-md.png 768w ,https://2087leanne.github.io/leanne/media/posts/5/responsive/Jie-Tu-2023-09-15-Shang-Wu-9.51.01-2-lg.png 1024w ,https://2087leanne.github.io/leanne/media/posts/5/responsive/Jie-Tu-2023-09-15-Shang-Wu-9.51.01-2-xl.png 1360w ,https://2087leanne.github.io/leanne/media/posts/5/responsive/Jie-Tu-2023-09-15-Shang-Wu-9.51.01-2-2xl.png 1600w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://2087leanne.github.io/leanne/media/posts/5/Jie-Tu-2023-09-15-Shang-Wu-9.51.22.png" alt="" width="1064" height="686" sizes="(max-width: 48em) 100vw, 768px" srcset="https://2087leanne.github.io/leanne/media/posts/5/responsive/Jie-Tu-2023-09-15-Shang-Wu-9.51.22-xs.png 300w ,https://2087leanne.github.io/leanne/media/posts/5/responsive/Jie-Tu-2023-09-15-Shang-Wu-9.51.22-sm.png 480w ,https://2087leanne.github.io/leanne/media/posts/5/responsive/Jie-Tu-2023-09-15-Shang-Wu-9.51.22-md.png 768w ,https://2087leanne.github.io/leanne/media/posts/5/responsive/Jie-Tu-2023-09-15-Shang-Wu-9.51.22-lg.png 1024w ,https://2087leanne.github.io/leanne/media/posts/5/responsive/Jie-Tu-2023-09-15-Shang-Wu-9.51.22-xl.png 1360w ,https://2087leanne.github.io/leanne/media/posts/5/responsive/Jie-Tu-2023-09-15-Shang-Wu-9.51.22-2xl.png 1600w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://2087leanne.github.io/leanne/media/posts/5/Jie-Tu-2023-09-15-Shang-Wu-9.51.58.png" alt="" width="935" height="749" sizes="(max-width: 48em) 100vw, 768px" srcset="https://2087leanne.github.io/leanne/media/posts/5/responsive/Jie-Tu-2023-09-15-Shang-Wu-9.51.58-xs.png 300w ,https://2087leanne.github.io/leanne/media/posts/5/responsive/Jie-Tu-2023-09-15-Shang-Wu-9.51.58-sm.png 480w ,https://2087leanne.github.io/leanne/media/posts/5/responsive/Jie-Tu-2023-09-15-Shang-Wu-9.51.58-md.png 768w ,https://2087leanne.github.io/leanne/media/posts/5/responsive/Jie-Tu-2023-09-15-Shang-Wu-9.51.58-lg.png 1024w ,https://2087leanne.github.io/leanne/media/posts/5/responsive/Jie-Tu-2023-09-15-Shang-Wu-9.51.58-xl.png 1360w ,https://2087leanne.github.io/leanne/media/posts/5/responsive/Jie-Tu-2023-09-15-Shang-Wu-9.51.58-2xl.png 1600w"></figure>
+<p> </p>
+<p>《f l o w》<br><br>Microelectronics Interactive Creation<br><br>Arduino, Pressure Sensor, Hose, Fluorescent Agent, Water Pump<br><br>Disordered, melancholy squeezing vibrant youth, I shine in confusion.</p>
+<p> </p>
+<p>《f l o w》<br><br>微電子互動創作<br><br>arduino、壓力感測器、軟管、螢光劑、水泵<br><br>失序了，憂鬱擠壓著燦爛的青春，我在迷茫中閃耀。翻譯英文</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Chaos</title>
+        <author>
+            <name>lean</name>
+        </author>
+        <link href="https://2087leanne.github.io/leanne/artwork2.html"/>
+        <id>https://2087leanne.github.io/leanne/artwork2.html</id>
+        <media:content url="https://2087leanne.github.io/leanne/media/posts/4/IMG_0359.jpg" medium="image" />
+            <category term="ARTWORKS"/>
 
-    <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://2087leanne.github.io/leanne/media/posts/1/IMG_0338-2.jpg" height="1380" width="891" alt=""  sizes="(max-width: 48em) 100vw, 768px" srcset="https://2087leanne.github.io/leanne/media/posts/1/responsive/IMG_0338-2-xs.jpg 300w ,https://2087leanne.github.io/leanne/media/posts/1/responsive/IMG_0338-2-sm.jpg 480w ,https://2087leanne.github.io/leanne/media/posts/1/responsive/IMG_0338-2-md.jpg 768w ,https://2087leanne.github.io/leanne/media/posts/1/responsive/IMG_0338-2-lg.jpg 1024w ,https://2087leanne.github.io/leanne/media/posts/1/responsive/IMG_0338-2-xl.jpg 1360w ,https://2087leanne.github.io/leanne/media/posts/1/responsive/IMG_0338-2-2xl.jpg 1600w">
-      
-    </figure>
+        <updated>2024-03-19T22:13:37+08:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://2087leanne.github.io/leanne/media/posts/4/IMG_0359.jpg" alt="" />
+                    The lingering sound of the bell brings tranquility amidst the chaos. Here, we contemplate the complex relationship between the positives and negatives of&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://2087leanne.github.io/leanne/media/posts/4/IMG_0359.jpg" class="type:primaryImage" alt="" /></p>
+                <p><br>The lingering sound of the bell brings tranquility amidst the chaos. Here, we contemplate the complex relationship between the positives and negatives of faith. Despite being hurt by the superstitions of those around us, we still seek faith in times of confusion for solace.<br><br>The inner mixed emotions are embodied in a concrete way in the work.</p>
+<p> </p>
+<p>Servo Motor / Bowl / Photopolymerization Printing</p>
+<p>伺服馬達 / 缽/  光固化列印<br>-<br> 《掙扎》<br>-<br>鐘聲餘音繞樑，在混沌中帶來了寧靜。於此我們思考著信仰的正面與負面之間的複雜關係，儘管因身旁人們的迷信而曾感到受傷，我們仍在迷失時尋求信仰以得到心靈撫慰。<br><br>內在的混合情感以具象的方式在作品中體現。</p>
+<p>黃麗穎 (Huang Liying) - Liying Huang 吳梓軒 (Wu Zixuan) - Zixuan Wu 吳勻楨 (Wu Yunzhen)</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Bound by Obsession</title>
+        <author>
+            <name>lean</name>
+        </author>
+        <link href="https://2087leanne.github.io/leanne/artworks.html"/>
+        <id>https://2087leanne.github.io/leanne/artworks.html</id>
+        <media:content url="https://2087leanne.github.io/leanne/media/posts/3/Jie-Tu-2023-09-15-Shang-Wu-9.45.23Kao-Bei.png" medium="image" />
+            <category term="ARTWORKS"/>
+
+        <updated>2024-03-19T22:13:12+08:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://2087leanne.github.io/leanne/media/posts/3/Jie-Tu-2023-09-15-Shang-Wu-9.45.23Kao-Bei.png" alt="" />
+                    "Bound by Obsession" : Acrylic, Motors, Bearings, Control Components We explore the concept that superstition and obsession ultimately lead to decay. People often&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://2087leanne.github.io/leanne/media/posts/3/Jie-Tu-2023-09-15-Shang-Wu-9.45.23Kao-Bei.png" class="type:primaryImage" alt="" /></p>
+                <p> </p>
+<p><span class="yt-core-attributed-string yt-core-attributed-string--white-space-pre-wrap" role="text"><span class="yt-core-attributed-string--link-inherit-color">"Bound by Obsession" : </span></span></p>
+<p><span class="yt-core-attributed-string yt-core-attributed-string--white-space-pre-wrap" role="text"><span class="yt-core-attributed-string--link-inherit-color">Acrylic, Motors, Bearings, Control Components</span></span></p>
+<p><span class="yt-core-attributed-string yt-core-attributed-string--white-space-pre-wrap" role="text"><span class="yt-core-attributed-string--link-inherit-color"> We explore the concept that superstition and obsession ultimately lead to decay. People often adhere to extreme ideologies in the name of religious beliefs, losing their rationality and objectivity, and ultimately plunging into the abyss of superstition. When individuals develop a strong attachment to a particular religious belief, they may abandon their capacity for critical thinking and judgment, blindly following religious leaders or doctrines. This blind obedience makes them susceptible to manipulation and exploitation, and they may even find themselves in irreversible situations. In such cases of fanaticism, people often confine themselves to narrow worldviews, rejecting alternative perspectives and thoughts. They not only turn a deaf ear to criticism and questioning from the outside world but also potentially conflict with those around them. Such circumstances are highly detrimental to personal growth and social progress. Furthermore, when superstition and obsession give rise to extreme behaviors, they can cause harm to both oneself and others. This harm can manifest physically, such as in self-inflicted harm or intense religious rituals that result in injuries or even fatalities. Additionally, some extremist religious organizations may resort to violence against non-believers or other religious groups, leading to social turmoil and conflict. Apart from physical harm, superstition and obsession can also have negative effects on individuals' mental well-being. When individuals perceive their superstitious beliefs as the only truth, they may experience anxiety, fear, and prejudice, harboring hostility towards themselves and others. They may hold a hostile attitude towards people of different beliefs or perspectives and attempt to persuade or exclude them. Moreover, superstition and obsession can contribute to societal divisions and disharmony. When individuals impose their beliefs on others, it can trigger social conflicts and opposition. In such situations, peaceful coexistence, mutual respect, and acceptance become challenging, thereby affecting the harmonious development of society. In conclusion, superstition and obsession have numerous negative consequences for individuals and society. The loss of rationality and objectivity, combined with blind adherence and obsession with specific beliefs, easily lead to the harmful effects discussed above.</span></span></p>
+<p> </p>
+<p><span class="yt-core-attributed-string yt-core-attributed-string--white-space-pre-wrap" role="text"><span class="yt-core-attributed-string--link-inherit-color">作品名稱： 自由意「噬」 </span></span></p>
+<p><span class="yt-core-attributed-string yt-core-attributed-string--white-space-pre-wrap" role="text"><span class="yt-core-attributed-string--link-inherit-color">媒材： 壓克力、馬達、軸承、控制元件 </span></span></p>
+<p><span class="yt-core-attributed-string yt-core-attributed-string--white-space-pre-wrap" role="text"><span class="yt-core-attributed-string--link-inherit-color">迷信與執著 終究會導致腐朽。 人們為了宗教信仰而奉行一種極端的思想，失去了理性和客觀的判斷力，最終陷入迷信的深淵 當一個人對於某種宗教信仰產生強烈的執著，他們可能會放棄自己的思考能力和批判思維，而全盲地追隨宗教領袖或教義。 這種盲從行為使得他們容易受到操縱和利用，甚至可能陷入不可挽回的境地。 </span></span></p>
+<p> </p>
+<p><span class="yt-core-attributed-string yt-core-attributed-string--white-space-pre-wrap" role="text"><span class="yt-core-attributed-string--link-inherit-color">在這種走火入魔的情況下，人們常常將自己封閉於狹窄的世界觀中，拒絕接受其他觀點和思想。他們不僅對外界的批評和質疑充耳不聞，還可能因此與周圍的人產生矛盾和衝突。這樣的情況對於個人的成長和社會的進步都是極其不利的。 </span></span></p>
+<p> </p>
+<p><span class="yt-core-attributed-string yt-core-attributed-string--white-space-pre-wrap" role="text"><span class="yt-core-attributed-string--link-inherit-color">黃麗穎 (Huang Liying) - Liying Huang 吳梓軒 (Wu Zixuan) - Zixuan Wu 吳勻楨 (Wu Yunzhen)</span></span></p>
             ]]>
         </content>
     </entry>
