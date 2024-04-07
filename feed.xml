@@ -3,7 +3,7 @@
     <title>HOME</title>
     <link href="https://2087leanne.github.io/leanne/feed.xml" rel="self" />
     <link href="https://2087leanne.github.io/leanne" />
-    <updated>2024-03-20T19:18:20+08:00</updated>
+    <updated>2024-04-07T22:53:55+08:00</updated>
     <author>
         <name>lean</name>
     </author>
@@ -55,7 +55,7 @@
         </content>
     </entry>
     <entry>
-        <title>Poster_01</title>
+        <title>Gentle Rain Under the Stars</title>
         <author>
             <name>lean</name>
         </author>
@@ -65,8 +65,20 @@
             <category term="DESIGN"/>
 
         <updated>2024-03-20T15:49:35+08:00</updated>
-            <summary></summary>
-        <content></content>
+            <summary>
+                <![CDATA[
+                        <img src="https://2087leanne.github.io/leanne/media/posts/15/C899868E-C840-4E2F-B753-0E01062E9E0A.JPG" alt="Gentle Rain Under the Stars" />
+                    I walk on the street, gazing at the sky. Their light has traveled thousands or even millions of light-years to reach our eyes.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://2087leanne.github.io/leanne/media/posts/15/C899868E-C840-4E2F-B753-0E01062E9E0A.JPG" class="type:primaryImage" alt="Gentle Rain Under the Stars" /></p>
+                <p>I walk on the street, gazing at the sky. Their light has traveled thousands or even millions of light-years to reach our eyes. Perhaps the stars have long disappeared, and we will never know. The poetic light shines on us, illuminating us from years ago.</p>
+<p>《微雨星空》 Gentle Rain Under the Stars</p>
+<p>我走在街上，仰望天際。他們的光芒是經過幾千幾萬光年下的距離，抵達了我們的視線，或許星球早已不在，我們永遠不會知道，詩意猶存的亮光，在好幾年前照耀著我們。</p>
+            ]]>
+        </content>
     </entry>
     <entry>
         <title>Album_03</title>

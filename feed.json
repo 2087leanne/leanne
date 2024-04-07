@@ -53,7 +53,9 @@
         {
             "id": "https://2087leanne.github.io/leanne/poster_01.html",
             "url": "https://2087leanne.github.io/leanne/poster_01.html",
-            "title": "Poster_01",
+            "title": "Gentle Rain Under the Stars",
+            "summary": "I walk on the street, gazing at the sky. Their light has traveled thousands or even millions of light-years to reach our eyes.",
+            "content_html": "<p>I walk on the street, gazing at the sky. Their light has traveled thousands or even millions of light-years to reach our eyes. Perhaps the stars have long disappeared, and we will never know. The poetic light shines on us, illuminating us from years ago.</p>\n<p>《微雨星空》 Gentle Rain Under the Stars</p>\n<p>我走在街上，仰望天際。他們的光芒是經過幾千幾萬光年下的距離，抵達了我們的視線，或許星球早已不在，我們永遠不會知道，詩意猶存的亮光，在好幾年前照耀著我們。</p>",
             "image": "https://2087leanne.github.io/leanne/media/posts/15/C899868E-C840-4E2F-B753-0E01062E9E0A.JPG",
             "author": {
                 "name": "lean"
@@ -62,7 +64,7 @@
                    "DESIGN"
             ],
             "date_published": "2024-03-20T15:49:35+08:00",
-            "date_modified": "2024-03-20T15:49:35+08:00"
+            "date_modified": "2024-04-07T22:53:55+08:00"
         },
         {
             "id": "https://2087leanne.github.io/leanne/album_03.html",
